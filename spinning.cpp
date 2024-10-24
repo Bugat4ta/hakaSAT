@@ -117,7 +117,7 @@ int main() {
     app.attitude_request(0.9, 0.1, 0.1, 0.1);
     app.attitude_request(0.1, 0.1, 0.1, 0.9);
     app.attitude_request(0.0, 0.0, 0.0, 1.0);
-    app.attitude_request(0.0, 0.0, 0.0, 1.0);
+    app.attitude_request(0.0, 0.0, 0.0, 0.9);
     app.attitude_request(0.0, 0.0, 0.0, 1.0);
     app.attitude_request(0.0, 0.0, 0.0, 1.0);
     app.attitude_request(0.0, 0.0, 0.0, 1.0);
