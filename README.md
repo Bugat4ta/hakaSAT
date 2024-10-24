@@ -1,2 +1,2 @@
 # hakaSAT
-fuctional hackasat challenges
+the attitude commands change with slight changes in the code ;)
