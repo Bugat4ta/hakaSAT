@@ -1,0 +1,2 @@
+# hakaSAT
+fuctional hackasat challenges
